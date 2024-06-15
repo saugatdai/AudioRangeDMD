@@ -1,0 +1,3 @@
+# QMS-AudioDMD
+
+This plugin synchronizes DMD with Audio Playback. The DMD message is dispatched only when audio is being played...

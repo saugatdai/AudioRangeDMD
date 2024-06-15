@@ -1,0 +1,21 @@
+[
+    {
+        "name": "SerialPort",
+        "configType": "select",
+        "value": "/dev/ttyUSB0",
+        "choiceOptions": [
+            "/dev/ttyUSB0",
+            "/dev/ttyUSB1"
+        ]
+    },
+    {
+        "name": "Range",
+        "configType": "text",
+        "value": "0"
+    },
+    {
+        "name": "IntervalMS",
+        "configType": "text",
+        "value": "0"
+    }
+]
